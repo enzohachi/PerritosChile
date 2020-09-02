@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ayuda Perritos Chile</string>
+    <string name="completa_tus_datos">Completa tus datos</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="ingrese_rut_sin_puntos">Ingrese rut sin puntos</string>
+    <string name="ingrese_email">Ingrese Email</string>
+    <string name="ingrese_contrase_a">Ingrese Contraseña</string>
+    <string name="confirmar_registro">Confirmar registro</string>
+    <string name="volver_a_login">Volver a login</string>
+    <string name="login">Login</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
