@@ -10,4 +10,15 @@
     <string name="login">Login</string>
     <string name="ingresar">Ingresar</string>
     <string name="registrarse">Registrarse</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="repetir_contrase_a">Repetir contraseña</string>
+    <string name="informa_para_ayudar">Informa para ayudar</string>
+    <string name="subir_foto_perfil">Subir Foto Perfil</string>
+    <string name="cargar_imagen">Cargar Imagen</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="describe_detalladamente_aqu">Describe detalladamente aquí</string>
+    <string name="ingresa_titulo">Ingresa Titulo</string>
+    <string name="subir_informaci_n">Subir Información</string>
+    <string name="volver_al_inicio">Volver al inicio</string>
 </resources>
